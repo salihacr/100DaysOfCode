@@ -17,3 +17,11 @@
 
 - [ ] 📋  Article Translation:
 ---
+
+### 📅 **Day 3**:  
+ - [ ]  📌 Question 1: 
+ 
+ - [ ] 📌 Question 2:
+
+- [ ] 📋  Article Translation:
+---
