@@ -1,4 +1,4 @@
-<center># 💯 Days of Code !  💻  </center>
+# 💯 Days of Code !  💻 
 
 ### **🔥 Starting Date: 03.10.2020**
 
