@@ -53,7 +53,11 @@ class HelloWorld {
         C(power, i)   = power! / ( (power-i)! * i! ) 
     */ 
     static double C(double n, double i){
+<<<<<<< HEAD
         return factorial(n) / (factorial(n-i) * factorial(i));
+=======
+        return factorial(n)/(factorial(n-i)*factorial(i));
+>>>>>>> 005ca286ccf8ff0fe87bea81d201ef3742e4ec32
     }
     /*
         Binom Expansion Formula2 for Each Item
