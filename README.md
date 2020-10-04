@@ -7,16 +7,15 @@
  
  - [X] 📌 Binomial Expansion: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day1/Day1.cs)*
 
-- [ ] 📋  Article Translation:
----
+-  [X] 📋 Micro Frontend Architecture ( Webinar )
 
 ### 📅 **Day 2**:  
- - [ ]  📌 Question 1: 
+ - [X]  📌 Celcius to Fahrenheit : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day2/Day2.cs)*
  
- - [ ] 📌 Question 2:
+ - [X] 📌 Sum Factors : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day2/Day2.cs)*
 
-- [ ] 📋  Article Translation:
----
+ - [X] 📌 Craps Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day2/script.js)*
+
 
 ### 📅 **Day 3**:  
  - [ ]  📌 Question 1: 
