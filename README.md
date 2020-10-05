@@ -2,7 +2,7 @@
 
 ### **🔥 Starting Date: 03.10.2020**
 
-### 📅 **Day 1 (03.10.2020)**:  
+### 📅 **Day 1**:  
  - [X]  📌 Number of Digits: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day1/Day1.cs)*
  
  - [X] 📌 Binomial Expansion: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day1/Day1.cs)*
@@ -18,9 +18,9 @@
 
 
 ### 📅 **Day 3**:  
- - [ ]  📌 Question 1: 
+ - [X]  📌 Angle Between Hour and Minute Hands: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day3/script.js)*
  
- - [ ] 📌 Question 2:
+ - [X] 📌 Friendly Numbers: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day3/script.js)*
 
-- [ ] 📋  Article Translation:
----
+ - [X] 📋  Article Translation:
+
