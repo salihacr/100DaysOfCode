@@ -1,0 +1,2 @@
+def mustafa():
+    pass

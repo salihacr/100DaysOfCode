@@ -45,6 +45,6 @@
  - [X]  📌 Sorting odd and even numbers in the Array Separately : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day7/Day7.java)*
 
 ### 📅 **Day 8**:  
- - [X]  📌 s1 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day8/Day8.cs)*
+ - [X]  📌 Calculation of Number (e) : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day8/script.js)*
  
- - [X]  📌 s2 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day8/Day8.java)*
+ - [X]  📌 Four Digits Friendly Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day8/script.js)*
