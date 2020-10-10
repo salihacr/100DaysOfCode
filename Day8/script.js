@@ -22,8 +22,6 @@ const factorial2 = (num) => {
     return num * factorial2(num - 1);
 }
 calculate(8);
-console.log(factorial2(5));
-
 
 /*
     This function that checks whether the given numbers are friends or not ?
@@ -52,7 +50,6 @@ const sumFactors = (num) => {
     }
     return total;
 }
-
 
 /*
     Test Cases
