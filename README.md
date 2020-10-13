@@ -23,11 +23,11 @@
  - [X]  📌 Friendly Numbers: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day3/script.js)*
 
 ### 📅 **Day 4** 
- - [X]  📌 Prime Number Puzzle 1 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day4/Day4.cs)*
+ - []  📌 Prime Number Puzzle 1 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day4/Day4.cs)*
  
- - [X]  📌 Prime Number Puzzle 2 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day4/Day4.cs)*
+ - []  📌 Prime Number Puzzle 2 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day4/Day4.cs)*
 
- - [X]  📌 Prime Number Puzzle 3 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day4/Day4.cs)*
+ - []  📌 Prime Number Puzzle 3 : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day4/Day4.cs)*
 
 ### 📅 **Day 5** 
  - [X]  📌 Is a Prime Number : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day5/Day5.cs)*
@@ -53,3 +53,13 @@
  - [X]  📌 Finding Closest Prime Number : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day9/Day9.py)*
  
  - [X]  📌 Day of the Week : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day9/Day9.py)*
+
+### 📅 **Day 10** 
+ - []  📌 Syllable the Word : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day10/Day10.cs)*
+ 
+ - [X]  📌 Create Pyramid with Words : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day10/Day10.cs)*
+
+### 📅 **Day 11** 
+ - [X]  📌 Doors and Key Puzzle : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day11/Day11.cs)*
+ 
+ - [X]  📌 Reverse order text : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day11/Day11.cs)*
