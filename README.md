@@ -63,3 +63,8 @@
  - [X]  📌 Doors and Key Puzzle : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day11/Day11.cs)*
  
  - [X]  📌 Reverse order text : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day11/Day11.cs)*
+
+### 📅 **Day 12** 
+ - [X]  📌 Are Harshed Friends : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day12/Day12.cs)*
+ 
+ - [ ]  📌 Mastermind Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day12/Day12.cs)*
