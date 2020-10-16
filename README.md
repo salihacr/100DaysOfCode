@@ -68,3 +68,11 @@
  - [X]  📌 Are Harshed Friends : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day12/Day12.cs)*
  
  - [ ]  📌 Mastermind Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day12/Day12.cs)*
+
+### 📅 **Day 13** 
+ - [X]  📌 How to check if given four points form a square : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day13/Day13.cs)*
+ 
+ - [ ]  📌 How to check if given points form a circle : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day13/Day13.cs)*
+
+### 📅 **Day 14** 
+ - [X]  📌 Calculate Probability  of Coin Flipping Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day14/script.js)*
