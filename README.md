@@ -76,3 +76,7 @@
 
 ### 📅 **Day 14** 
  - [X]  📌 Calculate Probability  of Coin Flipping Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day14/script.js)*
+
+### 📅 **Day 15** 
+ - [X]  📌 Find Greatest Common Divisor : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day15/Day15.py)*
+ - [X]  📌 Common Digits : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day15/Day15.py)*
