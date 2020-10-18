@@ -80,3 +80,7 @@
 ### 📅 **Day 15** 
  - [X]  📌 Find Greatest Common Divisor : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day15/Day15.py)*
  - [X]  📌 Common Digits : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day15/Day15.py)*
+
+### 📅 **Day 16** 
+ - [X]  📌 Find Least Common Multiple : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day16/Day16.py)*
+ - [X]  📌 Is PrimeX : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day16/Day16.py)*
