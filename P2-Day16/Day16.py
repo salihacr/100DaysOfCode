@@ -14,7 +14,7 @@ print(leastCommonMultiple(125,20)) # lcm is 500
 
 
 """
-    This function, finds least common Multiple(lcm) by iteratively.
+    This function, Sum of digits from given number.
 """
 def sumOfDigits(num):
     total = 0
