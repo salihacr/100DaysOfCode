@@ -84,3 +84,7 @@
 ### 📅 **Day 16** 
  - [X]  📌 Find Least Common Multiple : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day16/Day16.py)*
  - [X]  📌 Is PrimeX : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day16/Day16.py)*
+
+### 📅 **Day 17** 
+ - [X]  📌 Genearate Random Date : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day17/script.js)*
+ - [X]  📌 Lotto Coupon : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day17/script.js)*
