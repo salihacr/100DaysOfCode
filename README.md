@@ -88,3 +88,7 @@
 ### 📅 **Day 17** 
  - [X]  📌 Genearate Random Date : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day17/script.js)*
  - [X]  📌 Lotto Coupon : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day17/script.js)*
+
+### 📅 **Day 18** 
+ - [X]  📌 Smith Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day18/script.js)*
+ - [X]  📌 Display Duration : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day18/script.js)*
