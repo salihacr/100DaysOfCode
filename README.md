@@ -92,3 +92,7 @@
 ### 📅 **Day 18** 
  - [X]  📌 Smith Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day18/script.js)*
  - [X]  📌 Display Duration : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day18/script.js)*
+
+### 📅 **Day 19** 
+ - [X]  📌 Decimal to Binary : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day19/script.js)*
+ - [X]  📌 Reverse Number : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day19/script.js)*
