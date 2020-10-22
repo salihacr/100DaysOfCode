@@ -98,5 +98,5 @@
  - [X]  📌 Reverse Number : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day19/script.js)*
 
 ### 📅 **Day 20** 
- - [X]  📌 Can Drawing a Triangle : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day20/Day20.py)*
- - [X]  📌 OOP Sample : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day20/Day20.py)*
+ - [X]  📌 Can Drawing a Triangle : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day20/Day20.py)*
+ - [X]  📌 OOP Sample : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day20/Day20.py)*
