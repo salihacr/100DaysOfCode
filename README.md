@@ -100,3 +100,7 @@
 ### 📅 **Day 20** 
  - [X]  📌 Can Drawing a Triangle : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day20/Day20.py)*
  - [X]  📌 OOP Sample : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day20/Day20.py)*
+
+### 📅 **Day 21** 
+ - [X]  📌 Find Unique Letter Count : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day21/script.js)*
+ - [X]  📌 Remove Leading and Trailing Spaces : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day21/script.js)*
