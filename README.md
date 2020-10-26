@@ -104,3 +104,6 @@
 ### 📅 **Day 21** 
  - [X]  📌 Find Unique Letter Count : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day21/script.js)*
  - [X]  📌 Remove Leading and Trailing Spaces : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day21/script.js)*
+
+### 📅 **Day 22** 
+ - [X]  📌 Ramanujan Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day22/script.js)*
