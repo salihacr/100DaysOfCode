@@ -107,3 +107,6 @@
 
 ### 📅 **Day 22** 
  - [X]  📌 Ramanujan Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day22/script.js)*
+
+### 📅 **Day 23** 
+ - [X]  📌 Mersenne Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day23/script.js)*
