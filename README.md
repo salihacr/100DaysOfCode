@@ -110,3 +110,9 @@
 
 ### 📅 **Day 23** 
  - [X]  📌 Mersenne Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day23/script.js)*
+
+### 📅 **Day 24** 
+ - [X]  📌 Luhn Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day24/script.js)*
+
+### 📅 **Day 25** 
+ - [X]  📌 Cullen Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day25/script.js)*

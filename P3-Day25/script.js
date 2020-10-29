@@ -12,23 +12,19 @@ function isPrime(num) {
     }
     return true;
 }
-
-/**
- * Mersenne numbers are integers of the form Mn = 2n-1.
- * @param {Number} pow Exponential value of mersenne number.
- * @returns {Number} Returns the number of mersenne.
- */
-function findMersenneNumber(pow) {
-    return Math.round(Math.pow(2, pow)) - 1;
+/*
+    Cullen number formula
+*/
+const cullenNumber = (pow) => {
+    return Math.round(Math.pow(2, pow) * pow) + 1;
 }
-
 /*
     Test Case
 */
-var i = 2;
-while (i < 100) {
-    if (isPrime(i)) {
-        console.log(i + " => " + findMersenneNumber(i));
+var i = 1;
+while (i < 150) {
+    if (isPrime(cullenNumber(i))) {
+        console.log(i + " => " + i);
     }
     i++;
 }
