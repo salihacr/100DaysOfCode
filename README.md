@@ -116,3 +116,9 @@
 
 ### 📅 **Day 25** 
  - [X]  📌 Cullen Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day25/script.js)*
+
+### 📅 **Day 26** 
+ - [X]  📌 Number's Digits are Different : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day26/script.js)*
+
+### 📅 **Day 27** 
+ - [X]  📌 Chips60 Game Win Probability : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day27/script.js)*
