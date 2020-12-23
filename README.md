@@ -125,3 +125,6 @@
 
 ### 📅 **Day 28** 
  - [X]  📌 Calendar : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day28/Calendar.cs)*
+
+### 📅 **Day 29** 
+ - [X]  📌 Craps Game Win Probability : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day29/CrapsGame.cs)*
