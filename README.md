@@ -129,5 +129,8 @@
 ### 📅 **Day 29** 
  - [X]  📌 Craps Game Win Probability : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day29/CrapsGame.cs)*
 
-### 📅 **Day 3** 
- - [X]  📌 Unique Elements of Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day3/day30.ts)*
+### 📅 **Day 30** 
+ - [X]  📌 Unique Elements of Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day30/day30.ts)*
+
+### 📅 **Day 31** 
+ - [X]  📌 Unique Elements of Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day31/)*
