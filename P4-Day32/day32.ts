@@ -1,7 +1,7 @@
 /* If you're run this, Install Typescript Global npm install -g typescript
 run step =>
-    tsc day30.ts
-    node day30.js
+    tsc day32.ts
+    node day32.js
 */
 
 // This function find factorial iteratively.

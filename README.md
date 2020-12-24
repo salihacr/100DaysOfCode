@@ -137,3 +137,6 @@
 
 ### 📅 **Day 32** 
  - [X]  📌 Combination & Permutation : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day32/day32.ts)*
+
+### 📅 **Day 33** 
+ - [X]  📌 Perfect Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/day33.ts)*
