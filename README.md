@@ -133,4 +133,7 @@
  - [X]  📌 Unique Elements of Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day30/day30.ts)*
 
 ### 📅 **Day 31** 
- - [X]  📌 Find Mode and Frequency in Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day31/)*
+ - [X]  📌 Find Mode and Frequency in Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day31/day31.ts)*
+
+### 📅 **Day 32** 
+ - [X]  📌 Combination & Permutation : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day32/day32.ts)*
