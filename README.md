@@ -140,3 +140,7 @@
 
 ### 📅 **Day 33** 
  - [X]  📌 Perfect Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/day33.ts)*
+
+### 📅 **Day 34** 
+ - [X]  📌 Matrix Operations : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/Matrices.cs)*
+ - [X]  📌 Duplicate Elements is Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/DuplicateElements.cs)*
