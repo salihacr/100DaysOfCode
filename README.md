@@ -144,3 +144,9 @@
 ### 📅 **Day 34** 
  - [X]  📌 Matrix Operations : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/Matrices.cs)*
  - [X]  📌 Duplicate Elements is Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/DuplicateElements.cs)*
+
+### 📅 **Day 35** 
+ - [X]  📌 OOP based Minefield Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day35/MineField.cs)*
+
+### 📅 **Day 40** 
+ - [X]  📌 Secure Password Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day40/)*
