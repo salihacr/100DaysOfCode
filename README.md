@@ -140,6 +140,7 @@
 
 ### 📅 **Day 33** 
  - [X]  📌 Perfect Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/day33.ts)*
+ - [ ]  📌 Hangman Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/)*
 
 ### 📅 **Day 34** 
  - [X]  📌 Matrix Operations : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/Matrices.cs)*
@@ -148,5 +149,41 @@
 ### 📅 **Day 35** 
  - [X]  📌 OOP based Minefield Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day35/MineField.cs)*
 
+### 📅 **Day 36** 
+ - [X]  📌 OOP based Battleship Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day36/Battleship.cs)*
+
+### 📅 **Day 37** 
+ - [X]  📌 Tic Tac Toe : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
+
+### 📅 **Day 38** 
+ - [X]  📌 Tower of Hanoi : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/)*
+
+### 📅 **Day 39** 
+ - [X]  📌 N Queen Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day39/)*
+
 ### 📅 **Day 40** 
- - [X]  📌 Secure Password Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day40/)*
+ - [X]  📌 Knapsack Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day40/)*
+
+### 📅 **Day 41** 
+ - [X]  📌 Travelling Salesman Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day41/)*
+
+### 📅 **Day 42** 
+ - [X]  📌 Dijkstra's Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day42/)*
+ - [X]  📌 Bread First Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day42/)*
+
+### 📅 **Day 43** 
+ - [X]  📌 Dining Philosophers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day43/)*
+  - [X]  📌 Sleeping Barber Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day43/)*
+
+### 📅 **Day 44** 
+ - [X]  📌 Selection Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
+ - [X]  📌 Merge Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
+ - [X]  📌 Quick Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
+ - [X]  📌 Linear Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
+ - [X]  📌 Binary Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
+
+### 📅 **Day 45** 
+ - [X]  📌 Traffic Light Automata (FSM) : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day45/)*
+
+### 📅 **Day 46** 
+ - [X]  📌 Secure Password Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day46/)*

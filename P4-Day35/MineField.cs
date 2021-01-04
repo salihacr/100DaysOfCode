@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _100DaysOfCode
 {
@@ -6,30 +8,54 @@ namespace _100DaysOfCode
     {
         static void Main(string[] args)
         {
-            Console.Write("Field Size (this value must be between 3 and 25) : ");
-            var fieldSize = Convert.ToInt16(Console.ReadLine());
-            Console.Write("Degree of Difficulty (this value must be between 20 and 80) : ");
-            var degreeOfDifficulty = Convert.ToInt16(Console.ReadLine());
-            if (((fieldSize >= 3 && fieldSize <= 25) && (degreeOfDifficulty >= 20 && degreeOfDifficulty <= 80)))
+
+            bool playGame = true;
+            List<int> scores = new List<int>();
+            while (playGame)
             {
-                MineFieldGame mineField = new MineFieldGame(fieldSize, degreeOfDifficulty);
-                mineField.startGame();
+                Console.Write("Do you want to play the game ? (Yes or No) : ");
+                string answer = Console.ReadLine();
+
+                switch (answer.ToLower())
+                {
+                    case "yes":
+
+                        Console.Write("Field Size (this value must be between 3 and 25) : ");
+                        var fieldSize = Convert.ToInt16(Console.ReadLine());
+                        Console.Write("Degree of Difficulty (this value must be between 20 and 80) : ");
+                        var degreeOfDifficulty = Convert.ToInt16(Console.ReadLine());
+
+                        if (((fieldSize >= 3 && fieldSize <= 25) && (degreeOfDifficulty >= 20 && degreeOfDifficulty <= 80)))
+                        {
+                            MineFieldGame mineField = new MineFieldGame(fieldSize, degreeOfDifficulty);
+                            var score = mineField.startGame();
+                            scores.Add(score);
+                            Console.WriteLine("Best score is {0}", scores.Max());
+                        }
+                        else
+                        {
+                            Console.WriteLine("Please check and re-enter the values.");
+                        }
+                        break;
+                    case "no":
+                        playGame = false;
+                        break;
+                    default:
+                        Console.WriteLine("Yes or No");
+                        break;
+                }
             }
-            else
-            {
-                Console.WriteLine("Please check and re-enter the values.");
-            }
-            Console.ReadKey();
         }
     }
     interface IGame
     {
-        void startGame();
+        int startGame();
     }
     class Game : IGame
     {
-        public virtual void startGame()
+        public virtual int startGame()
         {
+            return 0;
         }
     }
     interface IMineFieldGame
@@ -109,22 +135,25 @@ namespace _100DaysOfCode
             }
         }
         // This function works until you lose the game.
-        public override void startGame()
+        public override int startGame()
         {
+            Random random = new Random();
             int[,] minefield = createMinefield();
             string[,] responseField = createResponseField();
             Console.WriteLine("Game is start, have a good time ! The values you enter must be between {0} and {1}.", 1, this.fieldSize);
             printMineFieldGeneric(ref responseField);
 
-            int point = 0;
+            int score = 0;
             bool gameGoingOn = true;
 
             while (gameGoingOn)
             {
                 Console.Write("Row : ");
                 var row = Convert.ToInt16(Console.ReadLine()) - 1;
+                //var row = random.Next(1, minefield.GetLength(0)) - 1; // random
                 Console.Write("Column : ");
                 var column = Convert.ToInt16(Console.ReadLine()) - 1;
+                //var column = random.Next(1, minefield.GetLength(1)) - 1; // random
 
                 try
                 {
@@ -132,15 +161,15 @@ namespace _100DaysOfCode
                     {
                         if (minefield[row, column] == 1)
                         {
-                            Console.WriteLine("Game is over, Point : {0}", point);
                             printMineFieldGeneric(ref minefield);
+                            Console.WriteLine("Game is over, Your score is : {0}", score);
                             gameGoingOn = false;
                         }
                         else
                         {
                             if (responseField[row, column] != "0")
                             {
-                                point += 10;
+                                score += 10;
                                 responseField[row, column] = "0";
                                 printMineFieldGeneric(ref responseField);
                             }
@@ -160,6 +189,7 @@ namespace _100DaysOfCode
                     Console.WriteLine("Unknown error has occurred. Please start the game again.");
                 }
             }
+            return score;
         }
     }
 }

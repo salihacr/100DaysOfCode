@@ -5,45 +5,70 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sonlu Otomata Trafik Işık Kontrolü</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 </head>
 
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <h1>Kuzey Yönü</h1>
-                <div class="traffic-light">
-                    <div class="circle lamp"></div>
-                    <div class="circle lamp"></div>
-                    <div class="circle lamp"></div>
+    <header>
+        <a href="/">Sonlu Otomata Trafik Işıkları Kontrolü</a>
+    </header>
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 mt-2">
+                    <center>
+                        <h1>Kuzey Yönü</h1>
+                        <div class="traffic-light">
+                            <div class="circle lamp"></div>
+                            <div class="circle lamp"></div>
+                            <div class="circle lamp"></div>
+                        </div>
+                        <div class="form-check mt-3">
+                            <input class="form-check-input" type="checkbox" id="northTraffic">
+                            <label class="form-check-label">
+                                Kuzey Yönünde Trafik
+                            </label>
+                        </div>
+                    </center>
                 </div>
-            </div>
-            <div class="col-md-6">
-                <h1>Batı Yönü</h1>
-                <div class="traffic-light">
-                    <div class="circle lamp2"></div>
-                    <div class="circle lamp2"></div>
-                    <div class="circle lamp2"></div>
+
+                <div class="col-md-6 mt-2">
+                    <center>
+                        <h1>Batı Yönü</h1>
+                        <div class="traffic-light">
+                            <div class="circle lamp2"></div>
+                            <div class="circle lamp2"></div>
+                            <div class="circle lamp2"></div>
+                        </div>
+                        <div class="form-check mt-3">
+                            <input class="form-check-input" type="checkbox" id="eastTraffic">
+                            <label class="form-check-label">
+                                Batı Yönünde Trafik
+                            </label>
+                        </div>
+                    </center>
                 </div>
+
             </div>
+            <center class="mt-4 mb-4">
+                <h2 id="state"></h2>
+            </center>
+            <center class="mt-2">
+                <p id="alert" style="display: none; margin-bottom: 1rem; font-weight: bold;"></p>
+            </center>
         </div>
-        <center class="mt-4 mb-4">
-            <button id="simulate" class="btn btn-danger mb-4">Simülasyona Başla</button>
-            <h2 id="state"></h2>
-        </center>
+    </main>
+    <br>
+
+    <div class="footer">
+        <small>Tüm Hakkı Saklıdır &copy;<a href="https://salihacr.github.io"> Salih Acur </a> 2020
+        </small>
     </div>
 </body>
 <style>
-    @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
-    * {
-        box-sizing: border-box;
-    }
-
     body {
         background-color: #1abc9c;
-        display: flex;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         align-items: center;
         justify-content: center;
         min-height: 100vh;
@@ -79,6 +104,44 @@
         left: 0px;
         width: 30px;
         height: 30px;
+    }
+
+    a {
+        text-decoration: none;
+        color: rgb(204, 204, 204);
+    }
+
+    a:hover {
+        color: #ff8000;
+        text-decoration: none;
+    }
+
+    header {
+        grid-area: header;
+        background-color: #203040;
+        color: #ffffff;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.5rem;
+    }
+
+    header a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: 8px;
+        background-color: #203040;
+        color: white;
+        text-align: center;
+        align-items: center;
+        justify-content: space-between;
     }
 </style>
 
