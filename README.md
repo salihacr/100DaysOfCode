@@ -140,7 +140,7 @@
 
 ### 📅 **Day 33** 
  - [X]  📌 Perfect Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/day33.ts)*
- - [ ]  📌 Hangman Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/)*
+ - [X]  📌 Hangman Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/)*
 
 ### 📅 **Day 34** 
  - [X]  📌 Matrix Operations : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/Matrices.cs)*
@@ -154,36 +154,172 @@
 
 ### 📅 **Day 37** 
  - [X]  📌 Tic Tac Toe : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
+ - [ ]  📌 Sudoku Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
 
-### 📅 **Day 38** 
- - [X]  📌 Tower of Hanoi : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/)*
+<hr/><hr/><hr/>
 
-### 📅 **Day 39** 
- - [X]  📌 N Queen Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day39/)*
+### **Computer Science Week: 22.01.2021**
 
-### 📅 **Day 40** 
- - [X]  📌 Knapsack Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day40/)*
+### 📅 **Day 38** (Algorithms & Programming)
+ - [X]  📌 Linear Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
 
-### 📅 **Day 41** 
- - [X]  📌 Travelling Salesman Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day41/)*
+ - [X]  📌 Binary Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
 
-### 📅 **Day 42** 
- - [X]  📌 Dijkstra's Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day42/)*
- - [X]  📌 Bread First Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day42/)*
+ - [X]  📌 Selection Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
 
-### 📅 **Day 43** 
- - [X]  📌 Dining Philosophers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day43/)*
-  - [X]  📌 Sleeping Barber Problem : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day43/)*
+ - [X]  📌 Merge Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
 
-### 📅 **Day 44** 
- - [X]  📌 Selection Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
- - [X]  📌 Merge Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
- - [X]  📌 Quick Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
- - [X]  📌 Linear Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
- - [X]  📌 Binary Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
+ - [X]  📌 Quick Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/)*
 
-### 📅 **Day 45** 
- - [X]  📌 Traffic Light Automata (FSM) : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day45/)*
+### 📅 **Day 39** (Algorithms & Programming)
+ - [X]  📌 Tower of Hanoi (Iterative & Recursive) : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day39/))*
 
-### 📅 **Day 46** 
- - [X]  📌 Secure Password Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day46/)*
+### 📅 **Day 40** (Data Structures & OOP)
+ - [X]  📌 Generic Linked List : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day40/)*
+
+ - [X]  📌 Generic Stack : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day40/)*
+
+ - [X]  📌 Generic Queue : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day40/)*
+
+### 📅 **Day 41** (Data Structures & OOP)
+ - [X]  📌 Binary Search Tree : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day41/)*
+
+### 📅 **Day 42** (Discrete Math & Graph Algorithms)
+ - [X]  📌 Dijkstra Algorithm: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day42/)*
+
+ - [X]  📌 Depth First Search: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day42/)*
+
+ - [X]  📌 Breadth First Search: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day42/)*
+
+### 📅 **Day 43** (Advanced Algorithms)
+ - [X]  📌 N-Queen Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day43/)*
+
+### 📅 **Day 44** (Advanced Algorithms)
+ - [X]  📌 Knapsack Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day44/)*
+
+### 📅 **Day 45** (Advanced Algorithms)
+ - [X]  📌 Travelling Salesman Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day45/)*
+
+### 📅 **Day 46** (Advanced Algorithms)
+ - [X]  📌 Travelling Salesman Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day46/)*
+
+### 📅 **Day 47** (Operating System Algorithms)
+ - [X]  📌 Dining Philophers Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day47/)*
+
+ - [X]  📌 Sleeping Barbers Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day47/)*
+
+### 📅 **Day 48** (Optimization Algorithms)
+ - [X]  📌 Genetic Algorithms: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
+
+ - [X]  📌 Simulated Annealing: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
+
+ - [X]  📌 Particle Swarm Optimization: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
+
+### 📅 **Day 49** (Artificial Intelligence Algorithms)
+ - [X]  📌 Linear Regression: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day49/)*
+
+ - [X]  📌 K-Nearest Neighbour: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day49/)*
+
+ - [X]  📌 K-Means: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day49/)*
+
+### 📅 **Day 50** (Cryptography Algorithms)
+ - [X]  📌 Hashing Algorithms (Form C#): *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
+
+### **End of Computer Science Week: 02.03.2021**
+
+<hr/><hr/><hr/>
+
+### **Learn By Yourself Training Camp (Bootcamp): 02.03.2021**
+
+### 📅 **Day 51 | Camp Day 1 |**
+ - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 52 "CampDay2"**
+ - [X]  📌 JavaScript Fetch CRUD (Promise, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 53 "CampDay3"**
+ - [X]  📌 JavaScript ATM App (JSON, Fetch, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 54 "CampDay4"**
+ - [X]  📌 Introduction to React : *[Link](https://www.youtube.com/watch?v=DLX62G4lc44/)*
+
+### 📅 **Day 55 "CampDay5"**
+ - [X]  📌 React To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 56 "CampDay6"**
+ - [X]  📌 React Life Cycle (Tic Tac Toe) : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 57 "CampDay7"**
+ - [X]  📌 React Router : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 58 "CampDay8"**
+ - [X]  📌 React Redux (To-Do List CRUD, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 59 "CampDay9"**
+ - [X]  📌 React Redux Fetch Pokemon API CRUD (3rd Party API): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 60 "CampDay10"**
+ - [X]  📌 React Redux ATM App (3rd Party API, Local Storage, Router, Redux): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+
+### 📅 **Day 62 "CampDay12"**
+ - [X]  📌 Introduction to .NET Core : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 63 "CampDay13"**
+ - [X]  📌 What is MVC, Razor, Dependency Injection : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 64 "CampDay14"**
+ - [X]  📌 Using Model, View, Controller: *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 65 "CampDay15"**
+ - [X]  📌 Session, Cookie : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 66 "CampDay16"**
+ - [X]  📌 MVC Routing : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 67 "CampDay17"**
+ - [X]  📌 ORM (Entity Framework) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 68 "CampDay18"**
+ - [X]  📌 Filters, Attributes, MiddleWare : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 69 "CampDay19"**
+ - [X]  📌 Authentication with Web API : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+ [core mvc login](https://www.youtube.com/watch?v=CzRM-hOe35o)
+
+### 📅 **Day 70 "CampDay20"**
+ - [X]  📌 Authentication with JWT : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+ *[.net core jwt role login](https://www.youtube.com/watch?v=JO76ZIM0SHo)
+
+### 📅 **Day 71 "CampDay21"**
+ - [X]  📌 Web Services API, (HTTP, Web Api) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 72 "CampDay22"**
+ - [X]  📌 Web Services API (Postman & Swagger & CORS) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 73 "CampDay23"**
+ - [X]  📌 .NET Core MVC CRUD To-Do List (jQuery, Ajax) : *[Link](https://www.youtube.com/watch?v=3r6RfShv8m8)*
+
+[jquery .net mvc core izle](https://www.youtube.com/watch?v=Mi_SddLvU80&list=PLzHIrc5EQ2su71LtsyR16VnHoZo3Cc6C3&index=1)
+
+[full stack react .net core](https://www.youtube.com/watch?v=JW44lrsCkUM)
+[full stack 2](https://www.youtube.com/watch?v=JW44lrsCkUM)
+
+### 📅 **Day 74 "CampDay24"**
+ - [X]  📌 .NET Core Web Api CRUD To-Do List (React) : *[Link](https://www.youtube.com/watch?v=NemyDIUcC64)*
+
+### 📅 **Day 75 "CampDay25"**
+ - [X]  📌 .NET Core MVC (Project & Employee Management System (jQuery, Ajax) (Dates, Images etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 76 "CampDay26"**
+ - [X]  📌 .NET Core API (Project & Employee Management System (React) (Dates, Images etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 77 "CampDay27"**
+ - [X]  📌 .NET Core MVC (BLOG App) (jQuery, Ajax) (Dates, Images, Auth etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+### 📅 **Day 78 "CampDay28"**
+ - [X]  📌 .NET Core API (BLOG App) (React) (Dates, Images, Auth etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+
+<hr/><hr/><hr/>

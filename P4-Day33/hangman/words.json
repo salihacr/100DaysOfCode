@@ -1,0 +1,83 @@
+{
+    "hangmanWords": [
+        {
+            "class": "fruits",
+            "words": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "cherry",
+                "coconut",
+                "fig",
+                "grape",
+                "kiwi",
+                "lemon",
+                "lime",
+                "mango",
+                "nectarine",
+                "orange",
+                "peach",
+                "pineapple",
+                "pear",
+                "plum",
+                "quince",
+                "rasbperry",
+                "strawberry",
+                "watermelon"
+            ]
+        },
+        {
+            "class": "vegetables",
+            "words": [
+                "artichoke ",
+                "asparagus ",
+                "aubergine ",
+                "beet",
+                "beetroot",
+                "bellpepper",
+                "broccoli",
+                "cabbage",
+                "carrot",
+                "cauliflower",
+                "celery",
+                "corn",
+                "cucumber",
+                "eggplant",
+                "greenbean",
+                "lettuce",
+                "mushroom",
+                "onion",
+                "pea",
+                "potato",
+                "pumpkin",
+                "radish",
+                "sweetpotato",
+                "tomato",
+                "zucchini"
+            ]
+        },
+        {
+            "class": "computer science",
+            "words": [
+                "datastructures",
+                "database",
+                "java",
+                "javascript",
+                "programming",
+                "algorithm",
+                "python",
+                "machinelearning",
+                "optimization",
+                "math",
+                "json",
+                "sql",
+                "objectorientedprogramming",
+                "logic",
+                "graph"
+            ]
+        }
+    ]
+}
