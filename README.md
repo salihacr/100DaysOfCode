@@ -79,30 +79,37 @@
 
 ### 📅 **Day 15** 
  - [X]  📌 Find Greatest Common Divisor : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day15/Day15.py)*
+ 
  - [X]  📌 Common Digits : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day15/Day15.py)*
 
 ### 📅 **Day 16** 
  - [X]  📌 Find Least Common Multiple : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day16/Day16.py)*
+ 
  - [X]  📌 Is PrimeX : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day16/Day16.py)*
 
 ### 📅 **Day 17** 
  - [X]  📌 Genearate Random Date : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day17/script.js)*
+ 
  - [X]  📌 Lotto Coupon : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day17/script.js)*
 
 ### 📅 **Day 18** 
  - [X]  📌 Smith Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day18/script.js)*
+ 
  - [X]  📌 Display Duration : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day18/script.js)*
 
 ### 📅 **Day 19** 
  - [X]  📌 Decimal to Binary : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day19/script.js)*
+ 
  - [X]  📌 Reverse Number : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P2-Day19/script.js)*
 
 ### 📅 **Day 20** 
  - [X]  📌 Can Drawing a Triangle : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day20/Day20.py)*
+ 
  - [X]  📌 OOP Sample : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day20/Day20.py)*
 
 ### 📅 **Day 21** 
  - [X]  📌 Find Unique Letter Count : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day21/script.js)*
+ 
  - [X]  📌 Remove Leading and Trailing Spaces : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P3-Day21/script.js)*
 
 ### 📅 **Day 22** 
@@ -140,10 +147,12 @@
 
 ### 📅 **Day 33** 
  - [X]  📌 Perfect Numbers : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/day33.ts)*
+ 
  - [X]  📌 Hangman Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day33/)*
 
 ### 📅 **Day 34** 
  - [X]  📌 Matrix Operations : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/Matrices.cs)*
+ 
  - [X]  📌 Duplicate Elements is Array : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day34/DuplicateElements.cs)*
 
 ### 📅 **Day 35** 
@@ -154,11 +163,12 @@
 
 ### 📅 **Day 37** 
  - [X]  📌 Tic Tac Toe : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
+ 
  - [ ]  📌 Sudoku Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
 
 <hr/><hr/><hr/>
 
-### **Computer Science Week: 22.01.2021**
+### **Computer Science Week: 25.01.2021**
 
 ### 📅 **Day 38** (Algorithms & Programming)
  - [X]  📌 Linear Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
@@ -170,6 +180,12 @@
  - [X]  📌 Merge Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
 
  - [X]  📌 Quick Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/)*
+
+ - [X]  📌 Bubble Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
+
+ - [X]  📌 Insertion Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/)*
+ 
+ - [X]  📌 Counting Sort Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/)*
 
 ### 📅 **Day 39** (Algorithms & Programming)
  - [X]  📌 Tower of Hanoi (Iterative & Recursive) : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day39/))*
@@ -225,11 +241,11 @@
 ### 📅 **Day 50** (Cryptography Algorithms)
  - [X]  📌 Hashing Algorithms (Form C#): *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
 
-### **End of Computer Science Week: 02.03.2021**
+### **End of Computer Science Week: 05.02.2021**
 
 <hr/><hr/><hr/>
 
-### **Learn By Yourself Training Camp (Bootcamp): 02.03.2021**
+### **Learn By Yourself Training Camp (Bootcamp): 06.02.2021**
 
 ### 📅 **Day 51 | Camp Day 1 |**
  - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
