@@ -216,36 +216,34 @@
 ### 📅 **Day 45** (Advanced Algorithms)
  - [X]  📌 Travelling Salesman Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day45/)*
 
-### 📅 **Day 46** (Advanced Algorithms)
- - [X]  📌 Travelling Salesman Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day46/)*
+### 📅 **Day 46** (Operating System Algorithms)
+ - [X]  📌 Dining Philophers Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day46/)*
 
-### 📅 **Day 47** (Operating System Algorithms)
- - [X]  📌 Dining Philophers Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day47/)*
+ - [X]  📌 Sleeping Barbers Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day46/)*
 
- - [X]  📌 Sleeping Barbers Problem: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day47/)*
+### 📅 **Day 47** (Optimization Algorithms)
+ - [X]  📌 Genetic Algorithms: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day47/)*
 
-### 📅 **Day 48** (Optimization Algorithms)
- - [X]  📌 Genetic Algorithms: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
+ - [X]  📌 Particle Swarm Optimization: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day47/)*
 
- - [X]  📌 Simulated Annealing: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
+### 📅 **Day 48** (Artificial Intelligence Algorithms)
+ - [X]  📌 Linear Regression: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
 
- - [X]  📌 Particle Swarm Optimization: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
+ - [X]  📌 K-Nearest Neighbour: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
 
-### 📅 **Day 49** (Artificial Intelligence Algorithms)
- - [X]  📌 Linear Regression: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day49/)*
+ - [X]  📌 K-Means: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day48/)*
 
- - [X]  📌 K-Nearest Neighbour: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day49/)*
-
- - [X]  📌 K-Means: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day49/)*
-
-### 📅 **Day 50** (Cryptography Algorithms)
- - [X]  📌 Hashing Algorithms (Form C#): *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
+### 📅 **Day 49** (Cryptography Algorithms)
+ - [X]  📌 Hashing Algorithms: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P5-Day49/)*
 
 ### **End of Computer Science Week: 05.02.2021**
 
 <hr/><hr/><hr/>
 
 ### **Learn By Yourself Training Camp (Bootcamp): 06.02.2021**
+
+### 📅 **Day 50 | Camp Day 0 |**
+ - [X]  📌 Asp.NET CRUD: *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
 
 ### 📅 **Day 51 | Camp Day 1 |**
  - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
@@ -254,7 +252,7 @@
  - [X]  📌 JavaScript Fetch CRUD (Promise, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
 
 ### 📅 **Day 53 "CampDay3"**
- - [X]  📌 JavaScript ATM App (JSON, Fetch, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+ - [X]  📌 JavaScript App (JSON, Fetch, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
 
 ### 📅 **Day 54 "CampDay4"**
  - [X]  📌 Introduction to React : *[Link](https://www.youtube.com/watch?v=DLX62G4lc44/)*
@@ -299,7 +297,7 @@
  - [X]  📌 Filters, Attributes, MiddleWare : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
 
 ### 📅 **Day 69 "CampDay19"**
- - [X]  📌 Authentication with Web API : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+ - [X]  📌 Authentication with Identity : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
 
  [core mvc login](https://www.youtube.com/watch?v=CzRM-hOe35o)
 
