@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FETCH API</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <h3>Xml Http Request</h3>
+        <button class="btn btn-outline-danger" id="getJson">Get JSON</button>
+        <button class="btn btn-outline-success" id="getApi">Get API</button>
+        <hr />
+        <div>
+            <div class="spinner-border text-success" id="loader" style="display: none;" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <table class="table table-bordered table-striped table-hover mt-3">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Age</th>
+                    </tr>
+                </thead>
+                <tbody id="persons">
+
+                </tbody>
+            </table>
+            <hr />
+        </div>
+        <p>Github Users</p>
+        <div id="output">
+
+        </div>
+    </div>
+
+
+    <script src="./app.js"></script>
+</body>
+
+</html>
