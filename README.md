@@ -242,47 +242,67 @@
 
 ### **Learn By Yourself Training Camp (Bootcamp): 06.02.2021**
 
-### 📅 **Day 50 | Camp Day 0 |**
- - [X]  📌 Asp.NET CRUD: *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
+### 📅 **Day 50
+ - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
 
-### 📅 **Day 51 | Camp Day 1 |**
- - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
-
-### 📅 **Day 52 "CampDay2"**
+### 📅 **Day 51
  - [X]  📌 JavaScript Fetch CRUD (Promise, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
 
-### 📅 **Day 53 "CampDay3"**
- - [X]  📌 JavaScript App (JSON, Fetch, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+### 📅 **Day 52
+ - [X]  📌 JavaScript App (JSON, Fetch, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day52/)*
 
-### 📅 **Day 54 "CampDay4"**
- - [X]  📌 Introduction to React : *[Link](https://www.youtube.com/watch?v=DLX62G4lc44/)*
+### 📅 **Day 53
+ - [X]  📌 Introduction to React : [Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day53/)*
 
-### 📅 **Day 55 "CampDay5"**
- - [X]  📌 React To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+### 📅 **Day 54
+ - [X]  📌 React To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day54/)*
 
-### 📅 **Day 56 "CampDay6"**
- - [X]  📌 React Life Cycle (Tic Tac Toe) : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+### 📅 **Day 55
+ - [X]  📌 React Life Cycle (Tic Tac Toe) : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day55/)*
 
-### 📅 **Day 57 "CampDay7"**
- - [X]  📌 React Router : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+### 📅 **Day 56
+ - [X]  📌 React Router : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day56/)*
 
-### 📅 **Day 58 "CampDay8"**
- - [X]  📌 React Redux (To-Do List CRUD, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+### 📅 **Day 57
+ - [X]  📌 React Redux (To-Do List CRUD, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day57/)*
 
-### 📅 **Day 59 "CampDay9"**
- - [X]  📌 React Redux Fetch Pokemon API CRUD (3rd Party API): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+### 📅 **Day 58
+ - [X]  📌 React Redux Fetch Pokemon API CRUD (3rd Party API): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day58/)*
 
-### 📅 **Day 60 "CampDay10"**
- - [X]  📌 React Redux ATM App (3rd Party API, Local Storage, Router, Redux): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
+### 📅 **Day 59
+ - [X]  📌 Introduction to .NET Core : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day59/)* - *[.Net Core Source](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
 
-### 📅 **Day 62 "CampDay12"**
- - [X]  📌 Introduction to .NET Core : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+### 📅 **Day 60
+ - [X]  📌 What is MVC, Razor, Dependency Injection : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day60/)*
 
-### 📅 **Day 63 "CampDay13"**
- - [X]  📌 What is MVC, Razor, Dependency Injection : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+### 📅 **Day 61
+ - [X]  📌 Using Model, View, Controller:*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day61/)* 
 
-### 📅 **Day 64 "CampDay14"**
- - [X]  📌 Using Model, View, Controller: *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 📅 **Day 65 "CampDay15"**
  - [X]  📌 Session, Cookie : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
