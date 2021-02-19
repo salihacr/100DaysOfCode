@@ -1,0 +1,10 @@
+﻿@model Session_Cookie.Models.User
+@using Microsoft.AspNetCore.Http;
+
+<h3>Welcome @Model.Username</h3>
+
+<h4>Your User Id is : @Context.Session.GetString("UserId") from Session Storage</h4>
+
+<h5>@DateTime.Now</h5>
+
+<a class="btn btn-danger" asp-controller="Account" asp-action="Logout">Logout</a>
