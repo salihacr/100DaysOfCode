@@ -16,7 +16,6 @@
 
  - [X]  📌 Craps Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day2/script.js)*
 
-
 ### 📅 **Day 3** 
  - [X]  📌 Angle Between Hour and Minute Hands: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day3/script.js)*
  

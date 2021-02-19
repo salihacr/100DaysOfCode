@@ -1,0 +1,58 @@
+﻿@model List<Book>
+
+<h1>Index</h1>
+
+<hr />
+
+<p>This Day : @DateTime.Now.ToShortDateString()</p>
+@{
+    var myList = new List<string>() { "Ankara", "İstanbul", "Kocaeli", "Tokat", "Erzurum" };
+}
+@foreach (var item in myList)
+{
+    <li>@(myList.IndexOf(item)+1) : @item</li>
+}
+<hr />
+
+
+<h4>Form Gönderme</h4>
+
+<form asp-controller="Home" asp-action="Index" method="post">
+
+    <div class="form-group">
+        <label>Kitap Adı</label>
+        <input type="text" class="form-control" placeholder="Kitap Adı" />
+        <br />
+        <label>Yazar</label>
+        <input type="text" class="form-control" placeholder="Yazar" />
+    </div>
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>
+
+
+
+<hr />
+
+
+<h5>Kitap Modelinden gelen Controllerda view olarak döndürülen Model</h5>
+<table>
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>@book.ID</td>
+            <td>@book.BookName</td>
+            <td>@book.Author</td>
+        </tr>
+    }
+</table>
+
+
+<hr />
+
+@{
+    <p>@ViewBag.Message</p>
+    <p>@ViewData["Message2"]</p>
+    <p>@TempData["Message3"]</p>
+
+    <br />
+}
