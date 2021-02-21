@@ -283,6 +283,11 @@
  ### 📅 **Day 63 .Net Core Routing
  - [X]  📌 Routing :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day63/)* 
 
+ ### 📅 **Day 64 .Net Core CRUD with Entity Framework
+ - [X]  📌 Entity Framework :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day64/)* 
+
+ - [X]  📌 Asp.Net Core CRUD :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day64/)* 
+
 
 
 
