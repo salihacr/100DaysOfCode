@@ -280,6 +280,9 @@
 ### 📅 **Day 62 Session Based Login
  - [X]  📌 Session & Cookies :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day62/)* 
 
+ ### 📅 **Day 63 .Net Core Routing
+ - [X]  📌 Routing :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day63/)* 
+
 
 
 
