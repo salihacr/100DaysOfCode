@@ -288,6 +288,8 @@
 
  - [X]  📌 Asp.Net Core CRUD :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day64/)* 
 
+ ### 📅 **Day 65 .Net Core Filters & Middleware
+ - [X]  📌 Filters & Middleware :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day65/)* 
 
 
 

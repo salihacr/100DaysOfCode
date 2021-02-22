@@ -1,0 +1,8 @@
+﻿@{
+    Exception exception = ViewData["HandleException"] as Exception;
+}
+
+
+<h4>Hello from Custom Error Page</h4>
+
+<h5>@exception.Message</h5>
