@@ -241,55 +241,64 @@
 
 ### **Learn By Yourself Training Camp (Bootcamp): 06.02.2021**
 
-### 📅 **Day 50
+### 📅 **Day 50**
  - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
 
-### 📅 **Day 51
+### 📅 **Day 51**
  - [X]  📌 JavaScript Fetch CRUD (Promise, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day51/)*
 
-### 📅 **Day 52
+### 📅 **Day 52**
  - [X]  📌 JavaScript App (JSON, Fetch, async, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day52/)*
 
-### 📅 **Day 53
+### 📅 **Day 53**
  - [X]  📌 Introduction to React : [Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day53/)*
 
-### 📅 **Day 54
+### 📅 **Day 54**
  - [X]  📌 React To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day54/)*
 
-### 📅 **Day 55
+### 📅 **Day 55**
  - [X]  📌 React Life Cycle (Tic Tac Toe) : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day55/)*
 
-### 📅 **Day 56
+### 📅 **Day 56**
  - [X]  📌 React Router : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day56/)*
 
-### 📅 **Day 57
+### 📅 **Day 57**
  - [X]  📌 React Redux (To-Do List CRUD, Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day57/)*
 
-### 📅 **Day 58
+### 📅 **Day 58**
  - [X]  📌 React Redux Fetch Pokemon API CRUD (3rd Party API): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day58/)*
 
-### 📅 **Day 59
+### 📅 **Day 59**
  - [X]  📌 Introduction to .NET Core : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day59/)* - *[.Net Core Source](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
 
-### 📅 **Day 60
+### 📅 **Day 60**
  - [X]  📌 What is MVC, Razor, Dependency Injection : *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day60/)*
 
-### 📅 **Day 61
+### 📅 **Day 61**
  - [X]  📌 Using Model, View, Controller:*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day61/)* 
 
-### 📅 **Day 62 Session Based Login
+### 📅 **Day 62** Session Based Login
  - [X]  📌 Session & Cookies :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day62/)* 
 
- ### 📅 **Day 63 .Net Core Routing
+ ### 📅 **Day 63** .Net Core Routing
  - [X]  📌 Routing :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day63/)* 
 
- ### 📅 **Day 64 .Net Core CRUD with Entity Framework
+ ### 📅 **Day 64** .Net Core CRUD with Entity Framework
  - [X]  📌 Entity Framework :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day64/)* 
 
  - [X]  📌 Asp.Net Core CRUD :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day64/)* 
 
- ### 📅 **Day 65 .Net Core Filters & Middleware
+ ### 📅 **Day 65** .Net Core Filters & Middleware
  - [X]  📌 Filters & Middleware :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day65/)* 
+
+ ### 📅 **Day 66** .Net Core Identity Authentication
+ - [X]  📌 Identity Auth :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day66/)* 
+
+ ### 📅 **Day 67** .Net Core JWT Based Authentication
+ - [X]  📌 JWT Auth :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day67/)* 
+
+ ### 📅 **Day 68** Web Services (Http Methods, Web Api)
+ - [X]  📌 Http Methods & Web Api :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day68/)* 
 
 
 
