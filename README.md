@@ -297,8 +297,11 @@
  ### 📅 **Day 67** .Net Core JWT Based Authentication
  - [X]  📌 JWT Auth :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day67/)* 
 
- ### 📅 **Day 68** Web Services (Http Methods, Web Api)
+ ### 📅 **Day 68** Web Services (Http Methods, Web Api, Postman)
  - [X]  📌 Http Methods & Web Api :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day68/)* 
+
+  ### 📅 **Day 69** Swagger, CQRS (Http Methods, Web Api)
+ - [X]  📌 Swagger & CQRS :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day69/)* 
 
 
 
@@ -320,27 +323,6 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-### 📅 **Day 66 Buralara Konu Başlıklarını Yaz
- - [X]  📌 MVC Routing : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-### 📅 **Day 67 "CampDay17"**
- - [X]  📌 ORM (Entity Framework) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-### 📅 **Day 68 "CampDay18"**
- - [X]  📌 Filters, Attributes, MiddleWare : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-### 📅 **Day 69 "CampDay19"**
- - [X]  📌 Authentication with Identity : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
- [core mvc login](https://www.youtube.com/watch?v=CzRM-hOe35o)
-
-### 📅 **Day 70 "CampDay20"**
- - [X]  📌 Authentication with JWT : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
- *[.net core jwt role login](https://www.youtube.com/watch?v=JO76ZIM0SHo)
-
-### 📅 **Day 71 "CampDay21"**
- - [X]  📌 Web Services API, (HTTP, Web Api) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
 
 ### 📅 **Day 72 "CampDay22"**
  - [X]  📌 Web Services API (Postman & Swagger & CORS) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
