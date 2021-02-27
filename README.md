@@ -2,6 +2,8 @@
 
 ### **🔥 Starting Date: 03.10.2020**
 
+## **Algorithms & Programming Tutorial**
+
 ### 📅 **Day 1** 
  - [X]  📌 Number of Digits: *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/Day1/Day1.cs)*
  
@@ -165,9 +167,9 @@
  
  - [ ]  📌 Sudoku Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
 
-<hr/><hr/><hr/>
+<hr/>
 
-### **Computer Science Week: 25.01.2021**
+## **Computer Science Tutorial**
 
 ### 📅 **Day 38** (Algorithms & Programming)
  - [X]  📌 Linear Search Algorithm : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day38/))*
@@ -237,9 +239,9 @@
 
 ### **End of Computer Science Week: 05.02.2021**
 
-<hr/><hr/><hr/>
+<hr/>
 
-### **Learn By Yourself Training Camp (Bootcamp): 06.02.2021**
+## **Learn By Yourself Training Camp (Bootcamp)**
 
 ### 📅 **Day 50**
  - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
@@ -297,58 +299,20 @@
  ### 📅 **Day 67** .Net Core JWT Based Authentication
  - [X]  📌 JWT Auth :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day67/)* 
 
- ### 📅 **Day 68** Web Services (Http Methods, Web Api, Postman)
+ ### 📅 **Day 68** .Net Core Web Services (Http Methods, Web Api, Postman)
  - [X]  📌 Http Methods & Web Api :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day68/)* 
 
-  ### 📅 **Day 69** Swagger, CQRS (Http Methods, Web Api)
+  ### 📅 **Day 69** .Net Core Swagger, Layered Architecture
  - [X]  📌 Swagger & CQRS :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day69/)* 
 
+  ### 📅 **Day 70** .Net Core Mvc Crud Operations (jQuery, Ajax, Modal)
+ - [X]  📌 Mvc Crud with jQuery :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day70/)* 
 
+  ### 📅 **Day 71** .Net Core Api Crud Operations (React)
+ - [X]  📌 Api Crud with React :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day71/)* 
 
+  ### 📅 **Day 72** .Net Core Mvc (Employee Management App) (jQuery, Ajax, ViewModel, View Components)
+ - [X]  📌 .Net Core Mvc App :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day72/)* 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-### 📅 **Day 72 "CampDay22"**
- - [X]  📌 Web Services API (Postman & Swagger & CORS) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-### 📅 **Day 73 "CampDay23"**
- - [X]  📌 .NET Core MVC CRUD To-Do List (jQuery, Ajax) : *[Link](https://www.youtube.com/watch?v=3r6RfShv8m8)*
-
-[jquery .net mvc core izle](https://www.youtube.com/watch?v=Mi_SddLvU80&list=PLzHIrc5EQ2su71LtsyR16VnHoZo3Cc6C3&index=1)
-
-[full stack react .net core](https://www.youtube.com/watch?v=JW44lrsCkUM)
-[full stack 2](https://www.youtube.com/watch?v=JW44lrsCkUM)
-
-### 📅 **Day 74 "CampDay24"**
- - [X]  📌 .NET Core Web Api CRUD To-Do List (React) : *[Link](https://www.youtube.com/watch?v=NemyDIUcC64)*
-
-### 📅 **Day 75 "CampDay25"**
- - [X]  📌 .NET Core MVC (Project & Employee Management System (jQuery, Ajax) (Dates, Images etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-### 📅 **Day 76 "CampDay26"**
- - [X]  📌 .NET Core API (Project & Employee Management System (React) (Dates, Images etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-### 📅 **Day 77 "CampDay27"**
- - [X]  📌 .NET Core MVC (BLOG App) (jQuery, Ajax) (Dates, Images, Auth etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-### 📅 **Day 78 "CampDay28"**
- - [X]  📌 .NET Core API (BLOG App) (React) (Dates, Images, Auth etc)) : *[Link](https://www.youtube.com/watch?v=C5cnZ-gZy2I)*
-
-
-<hr/><hr/><hr/>
+  ### 📅 **Day 73 to Day 75** .Net Core React (Employee Management App) (React, Redux, Hooks)
+ - [X]  📌 .Net Core Api App :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day73-Day75/)*
