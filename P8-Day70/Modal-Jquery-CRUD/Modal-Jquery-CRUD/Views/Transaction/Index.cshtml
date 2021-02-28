@@ -1,0 +1,12 @@
+﻿<!-- File : /Views/Transaction/Index.cshml !-->
+@model IEnumerable<Modal_Jquery_CRUD.Models.Transaction>
+
+@{ ViewData["Title"] = "Index"; }
+
+<div id="view-all">
+    @await Html.PartialAsync("_ViewAll", Model)
+</div>
+
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
