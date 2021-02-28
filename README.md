@@ -314,5 +314,5 @@
   ### 📅 **Day 72** .Net Core Mvc (Employee Management App) (jQuery, Ajax, ViewModel, View Components)
  - [X]  📌 .Net Core Mvc App :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day72/)* 
 
-  ### 📅 **Day 73 to Day 75** .Net Core React (Employee Management App) (React, Redux, Hooks)
+  ### 📅 **Day 73 to Day 75** .Net Core React (Restaurant App) (React.js)
  - [X]  📌 .Net Core Api App :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day73-Day75/)*
