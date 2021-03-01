@@ -1,0 +1,18 @@
+﻿@model EmployeeManager_Mvc_Modal.Models.Department
+
+<form method="post" asp-action="AddOrEdit">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label>Department Name</label>
+        <input type="text" class="form-control" asp-for="DepartmentName" />
+    </div>
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <input type="submit" value="Submit" class="btn btn-primary btn-block" />
+        </div>
+        <div class="form-group col-md-6">
+            <a asp-action="Index" class="btn btn-outline-secondary btn-block">Back To List</a>
+        </div>
+    </div>
+</form>

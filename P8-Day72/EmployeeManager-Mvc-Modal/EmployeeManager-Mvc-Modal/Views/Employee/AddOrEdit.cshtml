@@ -1,0 +1,55 @@
+﻿@model EmployeeManager_Mvc_Modal.ViewModels.EmployeeViewModel
+
+@{ Layout = null; }
+<form method="post" asp-action="AddOrEdit" enctype="multipart/form-data" asp-route-id="@Model.Employee.Id" onsubmit="return jQueryAjaxPost(this);">
+    <input type="hidden" asp-for="Employee.Id" />
+    <div class="form-group">
+        <label>FullName</label>
+        <input type="text" class="form-control" asp-for="Employee.FullName" />
+    </div>
+    <div class="form-group">
+        <label>Salary</label>
+        <input type="text" class="form-control" asp-for="Employee.Salary" />
+    </div>
+    <div class="form-group">
+        <label>Department Name</label>
+        <select class="form-control"
+                asp-for="Employee.DepartmentId"
+                asp-items="@(new SelectList(ViewBag.Departments, "Id", "DepartmentName"))">
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Image</label>
+        <input type="file" name="file" onchange="showpreview(this);" />
+        <input type="hidden" asp-for="Employee.Image" />
+        @if (Model.Employee.Image == "")
+        {
+            <img id="imgpreview" height="200" width="200" style="border-width: 0px;" />
+        }
+        else
+        {
+            <img src="~/img/@Model.Employee.Image" id="imgpreview" height="200" width="200" style="border-width: 0px;" />
+        }
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <input type="submit" value="Submit" class="btn btn-primary btn-block" />
+        </div>
+        <div class="form-group col-md-6">
+            <a asp-action="Index" class="btn btn-outline-secondary btn-block">Back To List</a>
+        </div>
+    </div>
+</form>
+<script>
+    function showpreview(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#imgpreview').css('visibility', 'visible');
+                $('#imgpreview').attr('src', e.target.result);
+                $('#imgpreview').fadeIn(650);
+            }
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+</script>
