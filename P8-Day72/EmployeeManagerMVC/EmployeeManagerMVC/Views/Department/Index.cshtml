@@ -1,0 +1,38 @@
+﻿@model IEnumerable<EmployeeManagerMVC.Models.Department>
+
+<h4>Department Index</h4>
+
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </th>
+            <th>
+                <a asp-action="AddOrEdit" class="btn btn-outline-success" asp-route-id="@(0)"><i class="far fa-plus-square"></i>New Department</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>
+                    @category.Id
+                </td>
+                <td>
+                    @category.DepartmentName
+                </td>
+                <td>
+                    <a asp-action="AddOrEdit" asp-route-id="@category.Id" class="btn btn-warning"> Edit </a>
+                    <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger ml-1"
+                       onclick="return confirm('Are you sure to delete this record ? ')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
