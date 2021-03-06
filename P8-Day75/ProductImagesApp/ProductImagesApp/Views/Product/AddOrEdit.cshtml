@@ -1,0 +1,93 @@
+﻿@model ProductImagesApp.Models.ProductImageViewModel
+
+<form method="post" asp-action="AddOrEdit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="@Model.Product.ProductId" />
+    <div class="form-group">
+        <label>Product Name</label>
+        <input type="text" class="form-control" asp-for="Product.ProductName" />
+    </div>
+    <div class="form-group">
+        <label>Price</label>
+        <input type="text" class="form-control" asp-for="Product.Price" />
+    </div>
+    <div class="form-group">
+        <label>Image</label>
+        <input type="file" name="mainFile" onchange="showpreview(this);" />
+        <input type="hidden" asp-for="Product.MainImage" />
+        @if (Model.Product.MainImage == "")
+        {
+            <img id="imgpreview" height="200" width="200" style="border-width: 0px;" />
+        }
+        else
+        {
+            <img src="~/img/@Model.Product.MainImage" id="imgpreview" height="200" width="200" style="border-width: 0px;" />
+        }
+    </div>
+    <label>Product Images</label>
+    <div class="form-group">
+        <input type="file" name="files" multiple onchange="previewFiles();" id="browse" />
+        <div id="preview">
+            @foreach (var image in ViewBag.ProductImages)
+            {
+                <img src="~/img/@image.ImagePath" id="img" height="200" width="200" style="border-width: 0px;" />
+            }
+        </div>
+    </div>
+
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <input type="submit" value="Submit" class="btn btn-primary btn-block" />
+        </div>
+        <div class="form-group col-md-6">
+            <a asp-action="Index" class="btn btn-outline-secondary btn-block">Back To List</a>
+        </div>
+    </div>
+
+</form>
+<script>
+    function showpreview(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#imgpreview').css('visibility', 'visible');
+                $('#imgpreview').attr('src', e.target.result);
+                $('#imgpreview').fadeIn(650);
+            }
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+    function previewFiles() {
+
+
+        var preview = document.querySelector('#preview');
+        var files = document.querySelector('#browse').files;
+
+        preview.innerHTML = "";
+
+        function readAndPreview(file) {
+
+            // Make sure `file.name` matches our extensions criteria
+            if (/\.(jpe?g|png|gif)$/i.test(file.name)) {
+                var reader = new FileReader();
+
+                reader.addEventListener("load", function () {
+                    var image = new Image();
+                    image.height = 100;
+                    image.title = file.name;
+                    image.src = this.result;
+                    preview.appendChild(image);
+                }, false);
+
+                reader.readAsDataURL(file);
+            }
+
+        }
+
+        if (files) {
+            [].forEach.call(files, readAndPreview);
+        }
+
+    }
+
+</script>

@@ -318,3 +318,15 @@
 
   ### 📅 **Day 73 to Day 74** .Net Core React (Restaurant App) (React.js)
  - [X]  📌 .Net Core Api App :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day73-Day74/)*
+
+  ### 📅 **Day 75** .Net Core MVC (Multiple File (Image) Upload)
+ - [X]  📌 Multi File Upload :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day75/)*
+
+  ### 📅 **Day 76** .Net Core MVC (Cascade Dropdown)
+ - [X]  📌 Cascading DropdownList :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day76/)*
+
+  ### 📅 **Day 77 - Day79** Asp.Net Core API & MVC Communication
+ - [X]  📌 API & MVC Communicate :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day77-79/)*
+
+  ### 📅 **Day 80 - Day81** Asp.Net Core API & MVC Udemy
+ - [X]  📌 API & MVC Course :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day80-81/)*
