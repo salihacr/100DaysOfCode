@@ -302,31 +302,37 @@
  ### 📅 **Day 68** .Net Core Web Services (Http Methods, Web Api, Postman)
  - [X]  📌 Http Methods & Web Api :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day68/)* 
 
-  ### 📅 **Day 69** .Net Core Swagger, Layered Architecture
+ ### 📅 **Day 69** .Net Core Swagger, Layered Architecture
  - [X]  📌 Swagger & CQRS :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P7-Day69/)* 
 
-  ### 📅 **Day 70** .Net Core Mvc Crud Operations (jQuery, Ajax, Modal)
+ ### 📅 **Day 70** .Net Core Mvc Crud Operations (jQuery, Ajax, Modal)
  - [X]  📌 Mvc Crud with jQuery :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day70/)* 
 
-  ### 📅 **Day 71** .Net Core Api Crud Operations (React)
+ ### 📅 **Day 71** .Net Core Api Crud Operations (React)
  - [X]  📌 Api Crud with React :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day71/)* 
 
-  ### 📅 **Day 72** .Net Core Mvc (Employee Management App) (jQuery, Ajax, ViewModel, View Components)
+ ### 📅 **Day 72** .Net Core Mvc (Employee Management App) (jQuery, Ajax, ViewModel, View Components)
  - [X]  📌 .Net Core Mvc App :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day72/)* 
 
  - [X]  📌 .Net Core Mvc Jquery Ajax Modal :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day72/)* 
 
-  ### 📅 **Day 73 to Day 74** .Net Core React (Restaurant App) (React.js)
+ ### 📅 **Day 73 to Day 74** .Net Core React (Restaurant App) (React.js)
  - [X]  📌 .Net Core Api App :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day73-Day74/)*
 
-  ### 📅 **Day 75** .Net Core MVC (Multiple File (Image) Upload)
+ ### 📅 **Day 75** .Net Core MVC (Multiple File (Image) Upload)
  - [X]  📌 Multi File Upload :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day75/)*
 
-  ### 📅 **Day 76** .Net Core MVC (Cascade Dropdown)
+ ### 📅 **Day 76** .Net Core MVC (Cascade Dropdown)
  - [X]  📌 Cascading DropdownList :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day76/)*
 
-  ### 📅 **Day 77 - Day79** Asp.Net Core API & MVC Communication
- - [X]  📌 API & MVC Communicate :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day77-79/)*
+ ### 📅 **Day 77 - Day 80** Asp.Net Core API & MVC Best Practice In NLayer Project
+ - [X]  📌 API & MVC Best Practices :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day77-80/)*
 
-  ### 📅 **Day 80 - Day81** Asp.Net Core API & MVC Udemy
- - [X]  📌 API & MVC Course :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day80-81/)*
+ ### 📅 **Day 81 - Day 83** Asp.Net Core API & MVC Udemy
+ - [X]  📌 API & MVC Course :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day81-83/)*
+
+ ### 📅 **Day 84** .Net Core API MongoDB
+ - [X]  📌 Asp.Net Core API MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day84/)*
+
+ ### 📅 **Day 85** .Net Core MVC MongoDB
+ - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day85/)*

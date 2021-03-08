@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<CategoryDto>
+<h1>Kategoriler</h1>
+
+<div class="col-md-12">
+    <a class="btn btn-primary" asp-action="Create">Kategori Ekle</a>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model)
+            {
+                <tr>
+                    <td>@category.Id</td>
+                    <td>@category.Name</td>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@category.Id" class="btn btn-warning"> Güncelle</a>
+                        <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
