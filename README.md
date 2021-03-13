@@ -334,7 +334,7 @@
  ### 📅 **Day 84** Asp.Net Core API MongoDB CRUD on Swagger
  - [X]  📌 Asp.Net Core API MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day84/)*
 
- ### 📅 **Day 85** .Net Core MVC MongoDB CRUD on App
+ ### 📅 **Day 85** .Net Core MVC MongoDB CRUD on Web App
  - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day85/)*
 <hr/>
 
