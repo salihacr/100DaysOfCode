@@ -328,13 +328,13 @@
  ### 📅 **Day 77 - Day 80** Asp.Net Core API & MVC Best Practice In NLayer Project
  - [X]  📌 API & MVC Best Practices :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P8-Day77-80/)*
 
- ### 📅 **Day 81 - Day 83** Asp.Net Core API & MVC Udemy
- - [X]  📌 API & MVC Course :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day81-83/)*
+ ### 📅 **Day 81 - Day 83** Asp.Net Web Form Blog App Jquery, Ajax
+ - [X]  📌 Blog App with Asp.Net :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day81-83/)*
 
- ### 📅 **Day 84** Asp.Net Core API MongoDB Swagger
+ ### 📅 **Day 84** Asp.Net Core API MongoDB CRUD on Swagger
  - [X]  📌 Asp.Net Core API MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day84/)*
 
- ### 📅 **Day 85** .Net Core MVC MongoDB
+ ### 📅 **Day 85** .Net Core MVC MongoDB CRUD on App
  - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day85/)*
 <hr/>
 
