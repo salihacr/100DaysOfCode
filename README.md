@@ -241,7 +241,7 @@
 
 <hr/>
 
-## **Learn By Yourself Training Camp (Bootcamp)**
+### **Learn By Yourself Training Camp (Bootcamp)**
 
 ### 📅 **Day 50**
  - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
@@ -331,8 +331,23 @@
  ### 📅 **Day 81 - Day 83** Asp.Net Core API & MVC Udemy
  - [X]  📌 API & MVC Course :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day81-83/)*
 
- ### 📅 **Day 84** .Net Core API MongoDB
+ ### 📅 **Day 84** Asp.Net Core API MongoDB Swagger
  - [X]  📌 Asp.Net Core API MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day84/)*
 
  ### 📅 **Day 85** .Net Core MVC MongoDB
  - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day85/)*
+<hr/>
+
+## **Design Patterns**
+
+### 📅 **Day 86** Design Patterns (Singleton)
+ - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day86/)*
+
+### 📅 **Day 87** Design Patterns (Singleton)
+ - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day87/)*
+
+### 📅 **Day 88** Design Patterns (Singleton)
+ - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day88/)*
+
+### 📅 **Day 89** Design Patterns (Singleton)
+ - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day89/)*
