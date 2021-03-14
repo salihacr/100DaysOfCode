@@ -340,14 +340,7 @@
 
 ## **Design Patterns**
 
-### 📅 **Day 86** Design Patterns (Singleton)
- - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day86/)*
+### 📅 **Day 86** Design Patterns (CQRS, Mediator Patterns)
+ - [X]  📌 CQRS Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day86/)*
 
-### 📅 **Day 87** Design Patterns (Singleton)
- - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day87/)*
-
-### 📅 **Day 88** Design Patterns (Singleton)
- - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day88/)*
-
-### 📅 **Day 89** Design Patterns (Singleton)
- - [X]  📌 Asp.Net Core MVC MongoDB :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day89/)*
+ - [X]  📌 Mediator Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day86/)*
