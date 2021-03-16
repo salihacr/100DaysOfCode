@@ -163,9 +163,13 @@
  - [X]  📌 OOP based Battleship Game : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day36/Battleship.cs)*
 
 ### 📅 **Day 37** 
- - [X]  📌 Tic Tac Toe : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
+ - [ ]  📌 Tic Tac Toe : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
  
  - [ ]  📌 Sudoku Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
+  
+ - [X]  📌 Basic NFA Automata : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
+ 
+ - [X]  📌 Password Generator : *[Answer](https://github.com/salihacr/100DaysOfCode/blob/master/P4-Day37/)*
 
 <hr/>
 
@@ -241,7 +245,7 @@
 
 <hr/>
 
-### **Learn By Yourself Training Camp (Bootcamp)**
+## **Learn By Yourself Training Camp (Bootcamp)**
 
 ### 📅 **Day 50**
  - [X]  📌 JavaScript To-Do List CRUD (Local Storage): *[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P6-Day50/)*
@@ -344,3 +348,13 @@
  - [X]  📌 CQRS Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day86/)*
 
  - [X]  📌 Mediator Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day86/)*
+
+### 📅 **Day 87** Design Patterns (Decorator, Strategy Patterns)
+ - [X]  📌 Decorator Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day87/)*
+
+ - [X]  📌 Strategy Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day87/)*
+
+### 📅 **Day 88** Design Patterns (Builder, Iterator Patterns)
+ - [X]  📌 Builder Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day88/)*
+
+ - [X]  📌 Iterator Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day88/)*
