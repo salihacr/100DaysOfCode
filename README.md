@@ -358,3 +358,13 @@
  - [X]  📌 Builder Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day88/)*
 
  - [X]  📌 Iterator Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day88/)*
+
+### 📅 **Day 89** Design Patterns (Unit Of Work, Facade Patterns)
+ - [X]  📌 Unit of Work Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day89/)*
+
+ - [X]  📌 Facade Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day89/)*
+
+### 📅 **Day 90** Design Patterns (Singleton, Factory Patterns)
+ - [X]  📌 Singleton Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day90/)*
+
+ - [X]  📌 Factory Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day90/)*
