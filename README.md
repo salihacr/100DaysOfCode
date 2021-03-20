@@ -368,3 +368,13 @@
  - [X]  📌 Singleton Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day90/)*
 
  - [X]  📌 Factory Pattern :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day90/)*
+
+<hr/>
+
+## **Advanced .Net Core**
+
+### 📅 **Day 91** .Net Core Blazor Server CRUD using SignalR
+ - [X]  📌 Blazor CRUD :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day91/)*
+
+### 📅 **Day 92** .Net Core Blazor Web Assembly CRUD (Web API, Swagger)
+ - [X]  📌 Blazor Web Assembly CRUD :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day92/)*

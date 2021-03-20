@@ -1,0 +1,92 @@
+﻿@page "/users"
+@using BlazorWebAPI.Shared
+@inject HttpClient Http
+
+
+<h1>User List</h1>
+<div class="row">
+    <div class="col col-md-6">
+        <input @bind-value="newUser.Name" type="text" class="form-control mb-3" placeholder="Name" />
+        <input @bind-value="newUser.Email" type="email" class="form-control mb-3" placeholder="Email" />
+        <input @bind-value="newUser.Password" type="password" class="form-control mb-3" placeholder="Password" />
+        <button class="btn btn-block btn-primary" @onclick="SubmitUser">Save</button>
+    </div>
+
+
+    <div class="col-md-6">
+        @if (users == null)
+        {
+            <p><em>Loading...</em></p>
+        }
+        else
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Password</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in users)
+                    {
+                        <tr>
+                            <td>@user.Id</td>
+                            <td>@user.Name</td>
+                            <td>@user.Email</td>
+                            <td>@user.Password</td>
+                            <td>
+                                <button @onclick="@(()=>GetUser(user.Id))" class="btn btn-sm btn-outline-warning">Edit</button>
+                            </td>
+                            <td>
+                                <button @onclick="@(()=>DeleteUser(user.Id))" class="btn btn-sm btn-danger">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+@code {
+    private User[] users;
+    private bool edit = false;
+    private User newUser = new User();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        users = await Http.GetFromJsonAsync<User[]>("api/user");
+    }
+    private async Task SubmitUser()
+    {
+        if (edit == false)
+        {
+            await Http.PostAsJsonAsync<User>("api/user", newUser);
+            await OnInitializedAsync();
+            newUser = new User();
+        }
+        else
+        {
+            await Http.PutAsJsonAsync<User>("api/user/" + newUser.Id, newUser);
+            await OnInitializedAsync();
+            edit = false;
+            newUser = new User();
+        }
+    }
+    private async Task DeleteUser(int id)
+    {
+        await Http.DeleteAsync("api/user/" + id.ToString());
+        await OnInitializedAsync();
+    }
+    private async Task GetUser(int id)
+    {
+        newUser = await Http.GetFromJsonAsync<User>("api/user/" + id.ToString());
+        edit = true;
+    }
+
+}
