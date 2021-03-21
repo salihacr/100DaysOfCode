@@ -373,7 +373,7 @@
 
 ## **Advanced .Net Core**
 
-### 📅 **Day 91** .Net Core Blazor Server CRUD using SignalR
+### 📅 **Day 91** .Net Core Blazor Server CRUD
  - [X]  📌 Blazor CRUD :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day91/)*
 
 ### 📅 **Day 92** .Net Core Blazor Web Assembly CRUD (Web API, Swagger)
