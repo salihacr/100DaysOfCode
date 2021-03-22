@@ -378,3 +378,12 @@
 
 ### 📅 **Day 92** .Net Core Blazor Web Assembly CRUD (Web API, Swagger)
  - [X]  📌 Blazor Web Assembly CRUD :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day92/)*
+
+### 📅 **Day 93** .Net Core Logging
+ - [X]  📌 Logging :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day93/)*
+
+### 📅 **Day 94** .Net Core Boilerplate API with Email Sign Up, Verification, Authentication & Forgot Password
+ - [X]  📌 JWT Advanced :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day94/)*
+
+### 📅 **Day 94** .Net Core Scheduling (Job Scheduling)
+ - [X]  📌 Scheduling :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day95/)*
