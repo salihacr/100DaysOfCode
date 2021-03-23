@@ -385,5 +385,5 @@
 ### 📅 **Day 94** .Net Core Boilerplate API with Email Sign Up, Verification, Authentication & Forgot Password
  - [X]  📌 JWT Advanced :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day94/)*
 
-### 📅 **Day 94** .Net Core Scheduling (Job Scheduling)
- - [X]  📌 Scheduling :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day95/)*
+### 📅 **Day 95** .Net Core Scheduling (Task (Job) Scheduling) with Hangfire
+ - [X]  📌 Scheduling with Hangfire :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day95/)*
