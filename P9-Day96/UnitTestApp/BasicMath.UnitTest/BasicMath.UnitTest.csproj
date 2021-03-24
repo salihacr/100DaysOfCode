@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BasichMath\BasicMath.csproj" />
+    <ProjectReference Include="..\BasicMath\BasicMath.csproj" />
   </ItemGroup>
 
 </Project>
