@@ -387,3 +387,6 @@
 
 ### 📅 **Day 95** .Net Core Scheduling (Task (Job) Scheduling) with Hangfire
  - [X]  📌 Scheduling with Hangfire :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day95/)*
+
+### 📅 **Day 96** Introduction to Unit Test
+ - [X]  📌 Unit Test :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day96/)*
