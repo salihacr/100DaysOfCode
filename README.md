@@ -393,3 +393,6 @@
 
 ### 📅 **Day 97** Introduction to Microservices with (Ocelot API Gateway)
  - [X]  📌 Microservices :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day97/)*
+
+### 📅 **Day 97** Introduction to Redis
+ - [X]  📌 Microservices :*[Link](https://github.com/salihacr/100DaysOfCode/blob/master/P9-Day98/)*
